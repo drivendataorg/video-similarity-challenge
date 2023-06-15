@@ -33,7 +33,7 @@ Place | Team or User | Code	| Paper | Score | Summary of Model
 --- | --- | ---  | --- | ---  | ---
 1   | do something | [GitHub repository](https://github.com/FeipengMa6/VSC22-Submission) | [A Dual-level Detection Method for Video Copy Detection](https://github.com/FeipengMa6/VSC22-Submission/blob/main/VSC22-Descriptor-Track-1st/documents/VSC22-Descriptor-Track-Solutions.pdf)  | 0.8717 | Uses a model derived from the provided baseline with an edit detection model and a video decomposition model to separate stacked videos.   
 2   | FriendshipFirst | [GitHub repository](https://github.com/WangWenhao0716/VSC-DescriptorTrack-Submission) | [Feature-compatible Progressive Learning for Video Copy Detection](https://arxiv.org/abs/2304.10305)  | 0.8514 | Utilizes feature-compatible progressive learning, with a model ensemble that generates comparable (compatible) similarity feature vectors. 
-3   | cvl-descriptor | [GitHub repository](https://github.com/line/Meta-AI-Video-Similarity-Challenge-3rd-Place-Solution) | 3rd Place Solution to Meta AI Video Similarity Challenge](https://arxiv.org/abs/2304.11964) | 0.8362 | Leverages previous winning image similarity challenge model with test-time augmentation and edit prediction models to generate descriptors.
+3   | cvl-descriptor | [GitHub repository](https://github.com/line/Meta-AI-Video-Similarity-Challenge-3rd-Place-Solution) | [3rd Place Solution to Meta AI Video Similarity Challenge](https://arxiv.org/abs/2304.11964) | 0.8362 | Leverages previous winning image similarity challenge model with test-time augmentation and edit prediction models to generate descriptors.
 
 ### Matching Track
 
