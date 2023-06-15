@@ -1,6 +1,6 @@
 [<img src='https://s3.amazonaws.com/drivendata-public-assets/logo-white-blue.png' height='70'>](https://www.drivendata.org/)
 <br>
-[<img src='https://s3.amazonaws.com/drivendata-public-assets/fb-isc-koala-banner.jpg' height='200' alt='Example of original and manipulated image pair from the Challenge.'>](https://ai.facebook.com/)
+[<img src='https://drivendata-public-assets.s3.amazonaws.com/meta-ai-logo.png' height='70'>](https://ai.facebook.com/)
 <br>
 <img alt="A side-by-side comparison of two videos showing a frame from a video on the left and the same frame manipulated with emojis on the right." src="https://drivendata-public-assets.s3.amazonaws.com/meta-vsc-hero.png" style="
     object-fit: scale-down;
