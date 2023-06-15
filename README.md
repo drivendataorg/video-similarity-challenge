@@ -1,6 +1,5 @@
 [<img src='https://s3.amazonaws.com/drivendata-public-assets/logo-white-blue.png' height='70'>](https://www.drivendata.org/)
 <br>
-[<img src='https://drivendata-public-assets.s3.amazonaws.com/meta-ai-logo.png' height='70'>](https://ai.facebook.com/)
 <br>
 <img alt="A side-by-side comparison of two videos showing a frame from a video on the left and the same frame manipulated with emojis on the right." src="https://drivendata-public-assets.s3.amazonaws.com/meta-vsc-hero.png" style="
     object-fit: scale-down;
@@ -9,7 +8,7 @@
 ">
 <sub>Credit: [BrentOzar](http://www.flickr.com/videos/56756426@N00/5139755631)</sub>
 
-# Video Similarity Challenge
+# Meta AI Video Similarity Challenge
 
 ## Goal of the Competition
 Competitors built models to help detect whether a given query video is derived from any of the videos in a large reference set.
